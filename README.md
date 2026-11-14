@@ -18,6 +18,7 @@ New posts go into `feed.json`. Add them to `news.json` too only if older release
   "version": 1,
   "posts": [
     {
+      "id": "2026-10-07-voidstrap-now-supports-linux",
       "date": "2026-10-07",
       "title": "Voidstrap now supports Linux",
       "body": "Voidstrap now runs on Linux.",
@@ -32,6 +33,7 @@ New posts go into `feed.json`. Add them to `news.json` too only if older release
 
 | Field | Required | Notes |
 | --- | --- | --- |
+| `id` | Yes | Unique, lowercase letters, digits and `-`, never changed once posted, likes and dislikes are saved under it |
 | `date` | Yes | `YYYY-MM-DD` with leading zeros |
 | `title` | Yes | Short headline in sentence case |
 | `body` | Yes | Plain text, no links inside it |
@@ -41,6 +43,7 @@ New posts go into `feed.json`. Add them to `news.json` too only if older release
 ## Writing posts
 
 - Newest post first.
+- Give every new post its own `id`, usually the date followed by the title in lowercase with `-` between words.
 - Keep titles short, without exclamation marks or all caps.
 - Put every link in `links`, never in `body`.
 - Check the file is valid JSON before you push it.

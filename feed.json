@@ -2,6 +2,7 @@
   "version": 1,
   "posts": [
     {
+      "id": "2026-10-07-voidstrap-now-supports-linux",
       "date": "2026-10-07",
       "title": "Voidstrap now supports Linux",
       "body": "Voidstrap now runs on Linux, using Sober for the player and Vinegar for Studio.",
@@ -12,6 +13,7 @@
       ]
     },
     {
+      "id": "2026-09-24-voidstrap-now-supports-android",
       "date": "2026-09-24",
       "title": "Voidstrap now supports Android",
       "body": "Voidstrap is now available on Android.",
@@ -21,6 +23,7 @@
       ]
     },
     {
+      "id": "2026-09-19-version-1-1-2-1-is-out",
       "date": "2026-09-19",
       "title": "Version 1.1.2.1 is out",
       "body": "Another huge update. Android and Linux support are coming in the next release.",
@@ -30,6 +33,7 @@
       ]
     },
     {
+      "id": "2026-07-29-voidstrap-has-moved-to-a-new-repository",
       "date": "2026-07-29",
       "title": "Voidstrap has moved to a new repository",
       "body": "GitHub flagged our old repository, so Voidstrap now lives at a new address. Please use the link below from now on.",
@@ -38,6 +42,7 @@
       ]
     },
     {
+      "id": "2026-04-25-our-discord-server-is-now-erablox",
       "date": "2026-04-25",
       "title": "Our Discord server is now Erablox",
       "body": "The Voidstrap Discord server has been rebranded to Erablox.",
@@ -46,6 +51,7 @@
       ]
     },
     {
+      "id": "2026-04-12-macos-support-is-in-the-works",
       "date": "2026-04-12",
       "title": "macOS support is in the works",
       "body": "We are working on macOS support right now. Get ready for a new Voidstrap.",
@@ -54,6 +60,7 @@
       ]
     },
     {
+      "id": "2026-04-12-aniwatch-fixes-are-coming",
       "date": "2026-04-12",
       "title": "Aniwatch fixes are coming",
       "body": "Some issues with the new Aniwatch will be fixed in a later update. Thanks for your patience.",
@@ -62,6 +69,7 @@
       ]
     },
     {
+      "id": "2026-03-12-version-1-0-9-9-is-out",
       "date": "2026-03-12",
       "title": "Version 1.0.9.9 is out",
       "body": "The next release is Update 100, so get ready. Thank you all so much for your support while I worked on this one.",
@@ -70,6 +78,7 @@
       ]
     },
     {
+      "id": "2026-02-18-big-updates-are-coming-soon",
       "date": "2026-02-18",
       "title": "Big updates are coming soon",
       "body": "Better donation perks with roles, wider support and plenty of bug fixes are on the way. These changes set Voidstrap up for an even better future.",
@@ -78,6 +87,7 @@
       ]
     },
     {
+      "id": "2026-01-12-version-1-0-8-9-is-out",
       "date": "2026-01-12",
       "title": "Version 1.0.8.9 is out",
       "body": "A big update with a lot of work and fixes.",
@@ -86,6 +96,7 @@
       ]
     },
     {
+      "id": "2026-01-05-version-1-0-8-7-adds-the-nvidia-editor",
       "date": "2026-01-05",
       "title": "Version 1.0.8.7 adds the NVIDIA editor",
       "body": "The rumors are true: the NVIDIA editor is here.",
@@ -94,6 +105,7 @@
       ]
     },
     {
+      "id": "2026-01-02-version-1-0-8-6-is-out",
       "date": "2026-01-02",
       "title": "Version 1.0.8.6 is out",
       "body": "A release focused on fixes.",
@@ -102,6 +114,7 @@
       ]
     },
     {
+      "id": "2025-12-31-version-1-0-8-5-happy-new-year",
       "date": "2025-12-31",
       "title": "Version 1.0.8.5: Happy New Year",
       "body": "Happy New Year, everyone.",
@@ -110,6 +123,7 @@
       ]
     },
     {
+      "id": "2025-12-25-version-1-0-8-4-the-christmas-update",
       "date": "2025-12-25",
       "title": "Version 1.0.8.4: the Christmas update",
       "body": "Merry Christmas, everyone.",
@@ -118,6 +132,7 @@
       ]
     },
     {
+      "id": "2025-12-25-version-1-0-8-3-is-a-huge-update",
       "date": "2025-12-25",
       "title": "Version 1.0.8.3 is a huge update",
       "body": "One of the biggest Voidstrap updates so far.",
@@ -126,6 +141,7 @@
       ]
     },
     {
+      "id": "2025-12-23-version-1-0-8-2-a-new-team-member",
       "date": "2025-12-23",
       "title": "Version 1.0.8.2: a new team member",
       "body": "We welcome a new developer to the team, and an account system is coming to the Voidstrap app.",
@@ -134,6 +150,7 @@
       ]
     },
     {
+      "id": "2025-12-19-thank-you-for-one-million-downloads",
       "date": "2025-12-19",
       "title": "Thank you for one million downloads",
       "body": "Thank you all for the comeback, it means everything. Voidstrap is updated, and we just passed one million downloads. Love you all.",
@@ -142,6 +159,7 @@
       ]
     },
     {
+      "id": "2025-11-27-the-new-discord-server-is-ready",
       "date": "2025-11-27",
       "title": "The new Discord server is ready",
       "body": "The new Discord server is finished. Both links are below.",
@@ -151,11 +169,13 @@
       ]
     },
     {
+      "id": "2025-11-27-a-discord-server-might-be-on-the-way",
       "date": "2025-11-27",
       "title": "A Discord server might be on the way",
       "body": "You asked for it, so a Discord server may be coming. Work on the next update continues."
     },
     {
+      "id": "2025-11-27-version-1-0-7-1-is-out",
       "date": "2025-11-27",
       "title": "Version 1.0.7.1 is out",
       "body": "A new update has dropped.",
@@ -164,11 +184,13 @@
       ]
     },
     {
+      "id": "2025-11-26-an-installer-revamp-may-be-coming",
       "date": "2025-11-26",
       "title": "An installer revamp may be coming",
       "body": "Both the Roblox and Voidstrap installers might get a revamp."
     },
     {
+      "id": "2025-11-26-version-1-0-7-0-is-out",
       "date": "2025-11-26",
       "title": "Version 1.0.7.0 is out",
       "body": "A new update has dropped.",
@@ -177,16 +199,19 @@
       ]
     },
     {
+      "id": "2025-11-26-about-the-next-update",
       "date": "2025-11-26",
       "title": "About the next update",
       "body": "I want to make up for what I did wrong in the past. That means doing a lot more and giving proper credit everywhere. I really have changed, so please give me some time. A Discord server is unlikely for now, so please stop asking in the YouTube comments."
     },
     {
+      "id": "2025-11-26-it-has-been-a-while-an-update-is-coming",
       "date": "2025-11-26",
       "title": "It has been a while: an update is coming",
       "body": "I have changed a lot, with plenty of help from friends who made sure I was okay and less lost. I regret things I did in the past and I am looking toward a better future. Voidstrap is not a virus, and I understand if you were worried. I want to push an update to see how everything is going."
     },
     {
+      "id": "2025-11-09-a-friend-made-a-song",
       "date": "2025-11-09",
       "title": "A friend made a song",
       "body": "Check out Labubus by a friend of mine.",
@@ -195,6 +220,7 @@
       ]
     },
     {
+      "id": "2025-11-02-version-1-0-6-9-is-out",
       "date": "2025-11-02",
       "title": "Version 1.0.6.9 is out",
       "body": "A new update is available.",
@@ -204,6 +230,7 @@
       ]
     },
     {
+      "id": "2025-10-29-version-1-0-6-8-is-out",
       "date": "2025-10-29",
       "title": "Version 1.0.6.8 is out",
       "body": "Fixes for 403 and 404 errors, plus much more.",
@@ -213,6 +240,7 @@
       ]
     },
     {
+      "id": "2025-10-28-the-discord-server-has-been-rebuilt",
       "date": "2025-10-28",
       "title": "The Discord server has been rebuilt",
       "body": "An admin nearly raided the whole server and deleted the old invite, so we rebuilt everything. Here is the new invite.",
@@ -221,6 +249,7 @@
       ]
     },
     {
+      "id": "2025-10-27-version-1-0-6-7-the-67-update",
       "date": "2025-10-27",
       "title": "Version 1.0.6.7: the 67 update",
       "body": "A huge update with lots of interface changes and much more.",
@@ -230,6 +259,7 @@
       ]
     },
     {
+      "id": "2025-10-27-a-huge-update-is-coming-today",
       "date": "2025-10-27",
       "title": "A huge update is coming today",
       "body": "Big interface changes and much more are landing today.",
@@ -239,6 +269,7 @@
       ]
     },
     {
+      "id": "2025-10-25-thank-you-for-350-000-downloads",
       "date": "2025-10-25",
       "title": "Thank you for 350,000 downloads",
       "body": "This meant so much to me when I first saw it. Thank you all.",
@@ -247,16 +278,19 @@
       ]
     },
     {
+      "id": "2025-10-24-version-1-0-6-4-is-out",
       "date": "2025-10-24",
       "title": "Version 1.0.6.4 is out",
       "body": "This release fully updates the music player, fixes every Rich Presence bug and adds shuffle. It also adds Apply Global Settings, Check for Updates, Roblox priority from Plexity, a text box for channels, more FastFlags, faster news loading, faster Roblox launching and installing, a refreshed About page, custom Rich Presence images, an account switcher with backups, an option to disable the crash handler, the new Ultra Gray theme, more Global Settings options and the move to .NET 8."
     },
     {
+      "id": "2025-10-23-a-big-update-is-coming-tomorrow",
       "date": "2025-10-23",
       "title": "A big update is coming tomorrow",
       "body": "It brings many new features, options and FastFlags."
     },
     {
+      "id": "2025-10-22-the-discord-server-is-open",
       "date": "2025-10-22",
       "title": "The Discord server is open",
       "body": "We are still setting things up, but you can join now. It really helps support the project.",
@@ -265,21 +299,25 @@
       ]
     },
     {
+      "id": "2025-10-22-a-new-discord-server-is-being-built",
       "date": "2025-10-22",
       "title": "A new Discord server is being built",
       "body": "My team and I are working on a new Discord server. Thank you for your support."
     },
     {
+      "id": "2025-10-22-almost-at-350-000-downloads",
       "date": "2025-10-22",
       "title": "Almost at 350,000 downloads",
       "body": "We are close to 350,000 downloads."
     },
     {
+      "id": "2025-10-22-an-update-is-coming-soon",
       "date": "2025-10-22",
       "title": "An update is coming soon",
       "body": "I hope this update goes well. A Discord server should follow soon."
     },
     {
+      "id": "2025-10-22-version-1-0-6-3-is-out",
       "date": "2025-10-22",
       "title": "Version 1.0.6.3 is out",
       "body": "Adds a startup sound to Appearance that plays in the preview and when Roblox launches, a Check for Updates button on the settings page, and a reworked memory trim that handles several Roblox clients and frees more memory.",
@@ -288,11 +326,13 @@
       ]
     },
     {
+      "id": "2025-10-21-a-small-update-is-coming-tomorrow",
       "date": "2025-10-21",
       "title": "A small update is coming tomorrow",
       "body": "A small Voidstrap update with more features arrives tomorrow."
     },
     {
+      "id": "2025-10-21-join-the-betterblox-discord-server",
       "date": "2025-10-21",
       "title": "Join the BetterBLOX Discord server",
       "body": "I am only active there for now, so it would mean a lot if you helped my friend out.",
@@ -302,21 +342,25 @@
       ]
     },
     {
+      "id": "2025-10-21-taking-some-time-away",
       "date": "2025-10-21",
       "title": "Taking some time away",
       "body": "I will be gone for a while to work on becoming a better person. Voidstrap updates will keep coming no matter what."
     },
     {
+      "id": "2025-10-21-thank-you-for-300-000-downloads",
       "date": "2025-10-21",
       "title": "Thank you for 300,000 downloads",
       "body": "Thank you all so much for 300,000 downloads."
     },
     {
+      "id": "2025-10-21-version-1-0-6-2-is-out",
       "date": "2025-10-21",
       "title": "Version 1.0.6.2 is out",
       "body": "A big update with a new news page and much more."
     },
     {
+      "id": "2025-10-20-a-new-voidstrap-website",
       "date": "2025-10-20",
       "title": "A new Voidstrap website",
       "body": "Check out the new Voidstrap website.",
@@ -325,11 +369,13 @@
       ]
     },
     {
+      "id": "2025-10-20-version-1-0-6-1-is-out",
       "date": "2025-10-20",
       "title": "Version 1.0.6.1 is out",
       "body": "A patch with fixes, video support in the music player and more."
     },
     {
+      "id": "2025-10-19-version-1-0-6-0-is-out",
       "date": "2025-10-19",
       "title": "Version 1.0.6.0 is out",
       "body": "Thank you for the best two years of my life. To celebrate, here is the biggest Voidstrap update yet."
